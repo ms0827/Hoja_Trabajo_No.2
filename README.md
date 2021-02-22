@@ -1,5 +1,5 @@
 # Hoja_Trabajo_No.2
-Ciencia de Datos Python - Sintaxis, Lista y Tuplas
+## Ciencia de Datos Python - Sintaxis, Lista y Tuplas
 
 Entregable: Su entregable deberá ser un link al repositorio de Git que contiene el Jupyter Notebook donde resolvió los ejercicios planteados.
 

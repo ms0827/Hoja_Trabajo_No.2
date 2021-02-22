@@ -3,7 +3,7 @@
 
 Entregable: Su entregable deberá ser un link al repositorio de Git que contiene el Jupyter Notebook donde resolvió los ejercicios planteados.
 
-## Parte No.1 - (Programación y Sintaxis):
+### Parte No.1 - (Programación y Sintaxis):
 A continuación, se le muestran una lista de ejercicios que deberá completar utilizando Python, debe usar Markdown para indicar donde inicia cada uno de los ejercicios.
 
 1. Haga un programa en Python que reciba de parámetro un número de segundos y que despliegue en pantalla, las horas, minutos y segundos que representan.
@@ -12,7 +12,7 @@ A continuación, se le muestran una lista de ejercicios que deberá completar ut
 
 3. Haga un programa en Python que la fecha de nacimiento de una persona (puede ingresar por separado cada valor, es decir pedir primero día, luego mes y luego año), despliegue la edad de la persona en años, meses y días. Su resultado puede ser aproximado.
 
-## Parte No.2 - (Estructuras de Datos):
+### Parte No.2 - (Estructuras de Datos):
 Resuelva los siguientes ejercicios sobre estructuras de datos en Python.
 
 1. Escriba una función en Python que dada una tupla de elementos (números o letras) esta se convierta a un String.
